@@ -15,13 +15,13 @@
 
 ### First File:
 <p align="center">
-  <iframe src="asset/Midterm Lab Task 1 - Quiambao_AronDaniel_B.pdf" width="100%" height="600px" style="border:none;">
+  <iframe src="asset/Midterm Lab Task 6 (problem 2).pdf" width="100%" height="600px" style="border:none;">
   </iframe>
 </p>
 
 ### Second File:
 <p align="center">
-  <iframe src="asset/Midterm Lab Task 1 - Quiambao_AronDaniel_B.pdf" width="100%" height="600px" style="border:none;">
+  <iframe src="asset/Midterm Lab Task 6 (problem 2).pdf" width="100%" height="600px" style="border:none;">
   </iframe>
 </p>
 
