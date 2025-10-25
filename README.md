@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <a href="asset/Midterm Lab Task 6 - Quiambao_AronDaniel_B.pdf" target="_blank">
+  <a href="asset/Midterm Lab Task 6 (problem 1).pdf" target="_blank">
     <button style="
       background-color:#2ea44f;
       border:none;
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="asset/Midterm Lab Task 6 - Quiambao_AronDaniel_B.pdf" target="_blank">
+  <a href="asset/Midterm Lab Task 6 (problem 2).pdf" target="_blank">
     <button style="
       background-color:#2ea44f;
       border:none;
